@@ -1,0 +1,12 @@
+{
+  "name": "video-scrape",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Leigh Halliday",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "isomorphic-fetch": "^2.2.1",
+    "puppeteer": "^5.2.1"
+  }
+}
